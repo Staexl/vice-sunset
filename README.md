@@ -62,3 +62,7 @@ Clone this repository and install from your clone instead: `claude plugin instal
 The backdrop is generated: edit `art/build-scene.mjs`, then run `node art/build-scene.mjs hooks` from this folder to rewrite `hooks/scene.ts`. The palette for each mode is at the top of that script.
 
 The desktop app covers the whole window with tinted panels, so the scene is always seen through them. `GLASS` in `hooks/look.ts` sets that tint (no blur, 56%). A veil in the scene (`--read` in the script) calms the middle column, where the chat text sits.
+
+## License
+
+[MIT](LICENSE). Grand Theft Auto and GTA are trademarks of Take-Two Interactive; this fan-made theme is not affiliated with or endorsed by Rockstar Games or Take-Two.
