@@ -1,0 +1,6 @@
+{
+  "name": "vice-sunset",
+  "owner": { "name": "Staexl" },
+  "description": "Vice Sunset: a GTA VI-inspired look for Claude Code.",
+  "plugins": [{ "name": "vice-sunset", "source": "./" }]
+}

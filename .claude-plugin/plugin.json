@@ -1,0 +1,9 @@
+{
+  "name": "vice-sunset",
+  "version": "0.1.0",
+  "description": "A GTA VI-inspired look: an animated Vice City sunset behind the app, neon colors, a wanted-level HUD, and heist-flavored spinner words.",
+  "author": { "name": "Staexl", "url": "https://github.com/Staexl" },
+  "homepage": "https://github.com/Staexl/vice-sunset",
+  "repository": "https://github.com/Staexl/vice-sunset",
+  "types": "./types/index.d.ts"
+}
